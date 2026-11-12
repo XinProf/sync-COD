@@ -1,4 +1,4 @@
-# sync-COD —— COD / PCOD / TCOD source data root and data-side tools
+# sync-COD  —  COD / PCOD / TCOD source data root and data-side tools
 
 > [Chinese (Simplified)](README-CN.md) · English
 
